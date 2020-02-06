@@ -1,0 +1,46 @@
+Open
+	Identify where you script depository is located:
+Python IDLE
+
+	Navigate your command line to the python script repository location
+	import os
+	os.getcwd()
+	os.chdir('path/')
+	type the following to check your version of pip the pythong pacakge installer.
+		C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip --version
+
+https://packaging.python.org/tutorials/installing-packages/
+	from cmd run: 
+	python --version (expecct an ouput like Python 3.6.3
+	pip --version (expect another output) if none: try:
+	python -m ensurepip --default-pip (if that doens't work, go downlaod get-pip.py
+	pip install SomePackage
+	
+
+	
+Notepad++
+# import os
+# import importlib
+# import re
+# import numpy as np
+# import pandas as pd
+# import matplotlib.pyplot as plt
+# import urllib.request
+# import json
+# import statistics
+
+Git BASH (command line)
+	helpful commands:
+	
+		pwd (where you are)
+		cd.. (move up one level)
+		ls (list everything in the directory)
+		cd name_of_subfolder/sub-subfolder
+		
+		tab to autocomplete
+		ctrl+a moves to beginning of line
+		ctrl+e moves to end of line
+		
+Get everything pointed correctly
+	
+		
